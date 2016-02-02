@@ -1,7 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 01.02.2016 19:22:08
-
-mtllib newtile.mtl
+# File Created: 01.02.2016 19:29:12
 
 #
 # object Line010
@@ -94,7 +92,6 @@ vn 0.0000 1.0000 -0.0000
 # 30 vertex normals
 
 g Line010
-usemtl Material__33
 s 1
 f 1//1 2//2 3//2 4//1 
 s 3
